@@ -132,7 +132,7 @@ class Canvas {
       this.shapeNum = 50;
       this.randomMax = 20;
       this.ShapeMaxSize = 80;
-      this.text = "Yash Rajput 👑";
+      this.text = "Yash ❤️";
     }
   }
 
